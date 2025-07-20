@@ -7,6 +7,8 @@ title: Parsons Problems
 ---
 # Parsons Practice: Fundamental Programming Constructs
 
+[Sequencing code](./parsons/sequence.html)
+
 [If statements](./parsons/if-statements.html)
 
 [For loops](./parsons/for-loops.html)
