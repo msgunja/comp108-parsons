@@ -5,6 +5,13 @@
 layout: default
 title: Sequencing code
 ---
+<h2>Drag or shuffle the blocks of code in the practice problems below.
+  Remember to indent where appropriate by dragging blocks to the right. <br/>
+
+  To check your work, press the "Get Feedback" button.
+  To start over, press the "Reset Problem" button.</h2>
+
+  
 # Parsons Practice
 
 ## Parsons 1  
