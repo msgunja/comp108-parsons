@@ -9,16 +9,6 @@ title: Parsons Problems
 
 [Sequencing code](./parsons/sequence.html)
 
-[If statements](./parsons/if-statements.html)
 
-[For loops](./parsons/for-loops.html)
-
-[While loops](./parsons/while_loops.html)
-
-[Lists](./parsons/lists.html)
-
-[Functions](./parsons/functions.html)
-
-[Dictionaries](./parsons/dictionaries.html)
 
 
