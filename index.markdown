@@ -5,7 +5,7 @@
 layout: default
 title: Parsons Problems
 ---
-# Parsons Practice: Fundamental Programming Constructs
+# Parsons Practice: COMP108
 
 [Sequencing code](./parsons/sequence.html)
 
