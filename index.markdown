@@ -5,7 +5,7 @@
 layout: default
 title: Parsons Problems
 ---
-# Parsons Practice: Programming Fundamentals
+# Parsons Practice: Fundamental Programming Constructs
 
 [If statements](./parsons/if-statements.html)
 
